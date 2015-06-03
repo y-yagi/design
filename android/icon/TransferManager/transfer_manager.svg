@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="72px"
+   height="72px"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="transfer_manager.svg">
+  <defs
+     id="defs2987" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.7683536"
+     inkscape:cx="4.5314131"
+     inkscape:cy="35.679521"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="876"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2993" />
+    <sodipodi:guide
+       position="3,3"
+       orientation="60,0"
+       id="guide2995" />
+    <sodipodi:guide
+       position="69,3"
+       orientation="0,60"
+       id="guide2997" />
+    <sodipodi:guide
+       position="69,69"
+       orientation="-60,0"
+       id="guide2999" />
+    <sodipodi:guide
+       position="3,69"
+       orientation="0,-60"
+       id="guide3001" />
+    <sodipodi:guide
+       position="5,67"
+       orientation="56,0"
+       id="guide3003" />
+    <sodipodi:guide
+       position="5,5"
+       orientation="0,56"
+       id="guide3005" />
+    <sodipodi:guide
+       position="67,5"
+       orientation="-56,0"
+       id="guide3007" />
+    <sodipodi:guide
+       position="67,67"
+       orientation="0,-56"
+       id="guide3009" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="icon">
+    <path
+       style="fill:none"
+       inkscape:connector-curvature="0"
+       d="m -51.835165,9.1978919 h 48 V 57.197892 h -48 z"
+       id="path3003" />
+    <rect
+       style="fill:#f3cf54;fill-opacity:0.94117647;fill-rule:nonzero;stroke:none"
+       id="rect3015"
+       width="71.802177"
+       height="72.059639"
+       x="0.12872741"
+       y="-0.059638482"
+       rx="2.3016078"
+       inkscape:export-filename="/home/yaginuma/design/android/icon/TransferManager/transfer_manager.png"
+       inkscape:export-xdpi="641.96826"
+       inkscape:export-ydpi="641.96826" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 36.66998,30.836268 c -5.936121,-1.542868 -7.845093,-3.124962 -7.845093,-5.609241 0,-2.850384 2.628106,-4.850882 7.060583,-4.850882 4.654755,0 6.380676,2.222776 6.537578,5.491565 h 5.779218 c -0.169977,-4.510929 -2.928835,-8.616527 -8.394249,-9.963268 v -5.726918 h -7.845093 v 5.648467 c -5.07316,1.111388 -9.152608,4.380177 -9.152608,9.440261 0,6.040722 5.007784,9.048008 12.290645,10.800078 6.550653,1.569019 7.845093,3.857171 7.845093,6.3153 0,1.791296 -1.26829,4.66783 -7.060584,4.66783 -5.386963,0 -7.518214,-2.418903 -7.792792,-5.491565 h -5.766143 c 0.326879,5.726918 4.602454,8.930331 9.636389,10.015569 v 5.674617 h 7.845093 v -5.622317 c 5.086235,-0.980636 9.152608,-3.922546 9.152608,-9.296435 0,-7.400537 -6.354525,-9.937117 -12.290645,-11.493061 z"
+       id="path3001"
+       style="fill:#cbcac6;fill-opacity:1" />
+  </g>
+</svg>

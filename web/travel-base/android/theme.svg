@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="792pt"
+   height="612pt"
+   id="svg3013"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   inkscape:export-filename="/home/yaginuma/design/travel-base/android/theme.png"
+   inkscape:export-xdpi="36.639999"
+   inkscape:export-ydpi="36.639999"
+   sodipodi:docname="theme.svg">
+  <defs
+     id="defs3015" />
+  <sodipodi:namedview
+     inkscape:document-units="in"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.7366334"
+     inkscape:cx="143.65825"
+     inkscape:cy="612.7791"
+     inkscape:current-layer="layer1"
+     id="namedview3017"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="876"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3019">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3022"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'梅P明朝S3';-inkscape-font-specification:'梅P明朝S3'"
+       inkscape:export-filename="/home/yaginuma/design/travel-base/android/login_main.png"
+       inkscape:export-xdpi="192.92888"
+       inkscape:export-ydpi="192.92888"><flowRegion
+         id="flowRegion3024"><rect
+           id="rect3026"
+           width="990.422"
+           height="748.57477"
+           x="-2.3033071"
+           y="27.941751"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'梅P明朝S3';-inkscape-font-specification:'梅P明朝S3'" /></flowRegion><flowPara
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+         id="flowPara3115">TravelBase</flowPara></flowRoot>  </g>
+</svg>
